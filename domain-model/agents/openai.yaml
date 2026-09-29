@@ -1,0 +1,3 @@
+interface:
+  display_name: "Domain Model"
+  short_description: "Define domain entities, rules, and operations"

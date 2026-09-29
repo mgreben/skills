@@ -1,0 +1,3 @@
+interface:
+  display_name: "Database Schema"
+  short_description: "Design relational schemas from domain models"
