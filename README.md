@@ -20,6 +20,7 @@ Use only the skills that fit the change. Small, well-understood fixes may begin 
 | [architecture-design](architecture-design/SKILL.md) | Propose pragmatic system architectures, flows, trade-offs, and delivery considerations. |
 | [architecture-review](architecture-review/SKILL.md) | Evaluate an existing design for requirement fit, operational concerns, and evolution risks. |
 | [writing-plans](writing-plans/SKILL.md) | Turn an approved change into a repository-aware, executable implementation plan. |
+| [git-commit](git-commit/SKILL.md) | Prepare focused Git commits with Conventional Commit messages. |
 | [qa-test-design](qa-test-design/SKILL.md) | Design prioritized QA scenarios for a feature, change, bug fix, or release. |
 | [test-review](test-review/SKILL.md) | Assess whether existing automated tests give meaningful behavioral confidence. |
 | [security-review](security-review/SKILL.md) | Find concrete security risks in code, infrastructure, and technical designs. |
