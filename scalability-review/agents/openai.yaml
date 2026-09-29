@@ -1,0 +1,3 @@
+interface:
+  display_name: "Scalability Review"
+  short_description: "Find capacity and resilience bottlenecks"

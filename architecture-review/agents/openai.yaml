@@ -1,0 +1,3 @@
+interface:
+  display_name: "Architecture Review"
+  short_description: "Evaluate technical designs and architectural trade-offs"

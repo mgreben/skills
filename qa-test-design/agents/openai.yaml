@@ -1,0 +1,3 @@
+interface:
+  display_name: "Qa Test Design"
+  short_description: "Design prioritized QA scenarios for a change"
