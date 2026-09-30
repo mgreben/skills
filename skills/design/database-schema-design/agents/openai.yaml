@@ -1,3 +1,3 @@
 interface:
-  display_name: "Database Schema"
+  display_name: "Database Schema Design"
   short_description: "Design relational schemas from domain models"

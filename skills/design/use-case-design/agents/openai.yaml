@@ -1,0 +1,3 @@
+interface:
+  display_name: "Use-Case Design"
+  short_description: "Catalog business use cases by bounded context"

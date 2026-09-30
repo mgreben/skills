@@ -1,0 +1,3 @@
+interface:
+  display_name: "Context Map Design"
+  short_description: "Map bounded contexts, ownership, and dependencies"

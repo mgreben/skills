@@ -1,0 +1,3 @@
+interface:
+  display_name: "Design Orchestrator"
+  short_description: "Route a change through the smallest needed design work"
