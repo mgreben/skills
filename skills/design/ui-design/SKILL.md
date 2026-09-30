@@ -1,6 +1,6 @@
 ---
 name: ui-design
-description: Design and, when requested, create a lightweight UI prototype from a product request or available system context. Use to explore screens, states, interactions, and usability before production implementation.
+description: Design lightweight UI wireframe prototypes from a product request or available system context. Use to explore screens, states, interactions, and usability before production implementation.
 ---
 
 # UI Design
@@ -22,7 +22,7 @@ Define the smallest screens and interactions that validate the core journey. Inc
 
 ## Output
 
-Return exactly one top-level Markdown section named `## UI Pages`. Within it, include:
+Return exactly one top-level Markdown section named `## UI Prototype`. Within it, include:
 
 - a page inventory with user goal, entry point, and primary action;
 - the user flow and material alternative states;

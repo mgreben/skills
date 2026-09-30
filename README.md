@@ -6,9 +6,9 @@ A small, composable workflow for taking an idea from clarification through archi
 
 ```text
 grill-me → project-goals ─┐
-existing change ──────────┴→ solution-design → selected design work → writing-plans → implementation
-                                             │          │
-                                             │          └→ context, domain, use cases, data, API, UI, architecture
+existing change ──────────┴→ product-design → writing-plans → implementation
+                                             │
+                                             ├→ modules → entities → functions → data → API → UI prototype
                                              └→ architecture and focused quality reviews, when consequential
 ```
 
@@ -20,13 +20,13 @@ Each skill can start from the request and repository context; the diagram is a p
 | --- | --- |
 | [grill-me](skills/planning/grill-me/SKILL.md) | Clarify an ambiguous idea through focused questions and produce an approved brief. |
 | [project-goals](skills/planning/project-goals/SKILL.md) | Define product goals, users, scope, success criteria, and constraints. |
-| [solution-design](skills/design/solution-design/SKILL.md) | Turn a goal or change into a proportionate solution and route the remaining design work. |
+| [product-design](skills/design/product-design/SKILL.md) | Turn an idea into modules, entities, functions, database schema, API endpoints, and UI wireframe prototypes. |
 | [context-map-design](skills/design/context-map-design/SKILL.md) | Map a product into bounded contexts, ownership boundaries, use cases, and dependencies. |
 | [domain-design](skills/design/domain-design/SKILL.md) | Define entities, relationships, invariants, lifecycle, and business operations. |
 | [use-case-design](skills/design/use-case-design/SKILL.md) | Define business use cases, behavior, and effects by bounded context. |
 | [database-schema-design](skills/design/database-schema-design/SKILL.md) | Design relational schemas around domain models and access patterns. |
 | [api-design](skills/design/api-design/SKILL.md) | Design secure, evolvable consumer-facing API contracts. |
-| [ui-design](skills/design/ui-design/SKILL.md) | Explore core user journeys through screen and interaction prototypes. |
+| [ui-design](skills/design/ui-design/SKILL.md) | Explore core user journeys through lightweight UI wireframe prototypes. |
 | [architecture-design](skills/design/architecture-design/SKILL.md) | Propose pragmatic system architectures, flows, trade-offs, and delivery considerations. |
 | [architecture-review](skills/review/architecture-review/SKILL.md) | Evaluate an existing design for requirement fit, operational concerns, and evolution risks. |
 | [writing-plans](skills/planning/writing-plans/SKILL.md) | Turn an approved change into a repository-aware, executable implementation plan. |
@@ -41,7 +41,7 @@ Each skill can start from the request and repository context; the diagram is a p
 
 ```text
 Use $grill-me to clarify a new billing flow.
-Use $architecture-design to suggest an architecture for the approved brief.
+Use $product-design to turn an approved brief into an end-to-end product design.
 Use $writing-plans to create an implementation plan for the chosen design.
 Use $qa-test-design to prepare release scenarios before implementation begins.
 ```
