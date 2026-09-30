@@ -11,4 +11,6 @@ Start from user journeys, business capabilities, and external boundaries—not f
 
 ## Output
 
+Present the result in the response.
+
 Present a context map, key use cases, dependencies and flows, boundary decisions with rationale, and open questions. Identify validation or approval needed for consequential boundaries. Avoid turning every noun into a bounded context, service, or public interface; do not define entities, tables, endpoint payloads, or file structure.

@@ -31,6 +31,7 @@ Each skill can start from the request and repository context; the diagram is a p
 | [architecture-review](skills/review/architecture-review/SKILL.md) | Evaluate an existing design for requirement fit, operational concerns, and evolution risks. |
 | [writing-plans](skills/planning/writing-plans/SKILL.md) | Turn an approved change into a repository-aware, executable implementation plan. |
 | [git-commit](skills/planning/git-commit/SKILL.md) | Prepare focused Git commits with Conventional Commit messages. |
+| [go-expert](skills/golang/go-expert/SKILL.md) | Implement, debug, refactor, and review production Go code using idiomatic feature-oriented service practices. |
 | [qa-test-design](skills/review/qa-test-design/SKILL.md) | Design prioritized QA scenarios for a feature, change, bug fix, or release. |
 | [test-review](skills/review/test-review/SKILL.md) | Assess whether existing automated tests give meaningful behavioral confidence. |
 | [security-review](skills/review/security-review/SKILL.md) | Find concrete security risks in code, infrastructure, and technical designs. |

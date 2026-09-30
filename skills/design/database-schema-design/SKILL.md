@@ -11,4 +11,6 @@ Translate relevant business rules and access patterns into a durable schema. For
 
 ## Output
 
+Present the result in the response.
+
 Present access patterns, schema with relationships, integrity and security controls, index rationale, migration notes, consequential decisions with rationale, and open decisions. Normalize by default and justify denormalization. Account for compatibility, backfill, validation, and rollback in live schema changes. Do not define HTTP endpoints or UI behavior.

@@ -11,4 +11,6 @@ Define the smallest screens and interactions that validate the core journey. Inc
 
 ## Output
 
+Present the result in the response.
+
 Present screen inventory, user flow, screen specifications, validation plan, consequential decisions with rationale, and open decisions. Include an ASCII wireframe for every primary screen by default, in a fenced text block; show hierarchy, navigation, controls, content, and important states without simulating visual styling. When asked for a tangible prototype, create the smallest suitable wireframe, clickable mockup, or isolated front-end artifact; distinguish it from production code and do not invent backend scope.

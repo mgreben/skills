@@ -11,4 +11,6 @@ Reconstruct the minimum needed domain vocabulary from the request and repository
 
 ## Output
 
+Present the result in the response.
+
 Present only a brief design basis, headings for bounded contexts, bullet lists of use cases, and `## Open Decisions` only when they prevent correct grouping or naming. Keep the catalog complete enough to route follow-up work without inventing scope. Do not add detailed specifications, flows, tables, endpoint payloads, screens, code classes, or implementation tasks.

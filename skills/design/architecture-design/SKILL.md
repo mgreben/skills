@@ -21,6 +21,8 @@ Evaluate alternatives only when they are credible options. Compare them against 
 
 ## Output
 
+Present the result in the response.
+
 Present the result as:
 
 1. **Context and requirements** — confirmed inputs, assumptions, and non-goals.

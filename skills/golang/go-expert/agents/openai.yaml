@@ -1,0 +1,4 @@
+interface:
+  display_name: "Go Expert"
+  short_description: "Implement and review idiomatic Go services"
+  default_prompt: "Help me implement, debug, or review this Go change."

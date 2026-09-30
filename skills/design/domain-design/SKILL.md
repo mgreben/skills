@@ -11,4 +11,6 @@ Model only the concepts needed for the request. Prefer domain language; distingu
 
 ## Output
 
+Present the result in the response.
+
 Present ubiquitous language, entities and relationships, invariants and state transitions, core operations, consequential decisions with rationale, and open questions. Do not model implementation tables or classes for convenience.

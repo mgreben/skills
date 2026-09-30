@@ -22,6 +22,8 @@ Do not invoke every stage, invent infrastructure, or produce an implementation p
 
 ## Output
 
+Present the result in the response.
+
 1. **Design basis** — goal, scope, non-goals, evidence, assumptions, and constraints.
 2. **Current solution slice** — the key flow, changed boundaries, and decisions already made.
 3. **Design route** — completed, required-next, deferred-safe, and unnecessary artifacts, with a reason for each.

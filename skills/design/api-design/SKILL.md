@@ -11,4 +11,6 @@ Design around consumer tasks and stable domain contracts. For each operation def
 
 ## Output
 
+Present the result in the response.
+
 Present API conventions, endpoint/event catalog, representative success and error examples, lifecycle/integration concerns, consequential decisions with rationale, validation concerns, and open decisions. Keep persistence private. Do not implement handlers or generate a full OpenAPI document unless asked.
